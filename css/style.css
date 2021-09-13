@@ -45,7 +45,7 @@ body {
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
-  border-radius: 80px/40px 0px ;
+  border-radius: 10% 10% 5% 5%;
   border: 2px solid cyan;
 }
 
